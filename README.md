@@ -11,3 +11,17 @@ The following **required** functionality is completed:
 - [] User can view the menu without login
 - [] User can view food detail for a dish
 
+## Mockup 
+
+Here's a walkthrough of implemented user stories:
+
+
+order type view controller | poster view controller | map view controller
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src='/mockup/ordertype.jpeg' width='200' alt='Video Walkthrough'/> | <img src='/mockup/poster.jpeg' width='200' alt='Video Walkthrough'/> | <img src='/mockup/map.jpeg' width='200' alt='Video Walkthrough'/>
+
+menu view controller | catagory | search
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src='/mockup/menu.jpeg' width='200' alt='Video Walkthrough'/> | <img src='/mockup/catagory.jpeg' width='200' alt='Video Walkthrough'/> | <img src='/mockup/search.jpeg' width='200' alt='Video Walkthrough'/>
+
+
