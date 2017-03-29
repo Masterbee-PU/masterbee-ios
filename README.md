@@ -212,6 +212,11 @@ menu view controller | catagory | search
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src='/mockup/menu.jpeg' width='200' alt='Video Walkthrough'/> | <img src='/mockup/catagory.jpeg' width='200' alt='Video Walkthrough'/> | <img src='/mockup/search.jpeg' width='200' alt='Video Walkthrough'/>
 
+## Mile Stone
+
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src='/gif/milestone1.gif' width='200' alt='Video Walkthrough'/> |  |
+
 ## Data Model
 
 ```
