@@ -42,29 +42,29 @@ Masterbee is an online catering service. Our innovative delivery technology ensu
 - [x] User have three available types of order method
 - [x] User can view Titles, Descriptions, icons of an order method
 
-- [ ] Boss can change the order method availability in firebase
+- [x] Boss can change the order method availability in firebase
 
 ### Menu View Controller
-- [ ] User can see the selected order method(pickup or (location & time)) at the top of the table
-- [ ] User can open Google Maps for navigation by tapping the button in the location image in the view header
-- [ ] User can see the section header(credits will earn when order now), the credit will count down.
+- [x] User can see the selected order method(pickup or (location & time)) at the top of the table
+- [x] User can open Google Maps for navigation by tapping the button in the location image in the view header
+- [x] User can see the section header(credits will earn when order now), the credit will count down.
 - [x] User can see the stocks in the menu table with image and title and a plus button
 - [ ] User can tap plus button in a stock cell to add it to the cart. (a button with count in cart will show up in the center of the stock image)
 - [ ] User can tap button with count in cart to reduce the number of the stock added in cart
-- [ ] User can see three navigation bar button items (search, cart, category) 
-- [ ] User can search a stock with keywords
-- [ ] User can view the cart view controller by tapping the cart button
-- [ ] User can view the category by tapping the category button. Menu table will scroll to certain index when stock in the category table tapped  
-- [ ] User can view stock detail by tapping on a cell
+- [x] User can see three navigation bar button items (search, cart, category) 
+- [x] User can search a stock with keywords
+- [x] User can view the cart view controller by tapping the cart button
+- [x] User can view the category by tapping the category button. Menu table will scroll to certain index when stock in the category table tapped  
+- [x] User can view stock detail by tapping on a cell
 
 ### Map View Controller
 - [x] User can see the google maps in the first half of the view 
 - [x] User can see the current location in the map 
-- [ ] The visible region when view did load is the region around the current location
-- [ ] User can see the markers of all available locations in the map
+- [x] The visible region when view did load is the region around the current location
+- [x] User can see the markers of all available locations in the map
 - [x] User can see the time table in the second half of the view
 - [ ] The time table when view did load is the nearest available location of current location
-- [ ] User can see the time of a certain location by click a marker in the map
+- [x] User can see the time of a certain location by click a marker in the map
 - [x] User can change the data of order today and within 6 days after today
 - [x] User can view the menu by tapping a cell 
 
@@ -122,7 +122,7 @@ menu view controller | catagory | search
 
 Milestone 1 | Milestone 2 | Milestone 3
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src='/gif/milestone1.gif' width='200' alt='Video Walkthrough'/> | <> | <>
+<img src='/gif/milestone1.gif' width='200' alt='Video Walkthrough'/> | <img src='/gif/milestone2.gif' width='200' alt='Video Walkthrough'/> | <>
 
 
 ## Data Model
